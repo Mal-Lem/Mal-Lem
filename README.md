@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Wal-Mal
+- 👀 I’m interested in iot 
+- 🌱 I’m currently learning quantum computing
+- 💞️ I’m looking to collaborate on Techmates 
+- 📫 How to reach me a_guerah@estin.dz

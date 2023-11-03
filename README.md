@@ -3,11 +3,11 @@ GitHub Profile README Generator
 Star this repo16071
 Fork on GitHub4463
 <h1 align="center">Hi 👋, I'm Amel</h1>
-<h3 align="center">A passionate frontend developer , cybersecurity from Algeria</h3>
+<h3 align="center">A passionate Web developer,DS and IOT from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mal-lem&label=Profile%20views&color=0e75b6&style=flat" alt="mal-lem" /> </p>
 
-- 🌱 I’m currently learning **CyberSecurity**
+- 🌱 I’m currently learning **DS & IOT**
 
 - 👯 I’m looking to collaborate on **any club project with members**
 

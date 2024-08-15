@@ -1,7 +1,5 @@
 github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo16071
-Fork on GitHub4463
+
 <h1 align="center">Hi 👋, I'm Amel</h1>
 <h3 align="center">A passionate Web developer,DS and IOT from Algeria</h3>
 

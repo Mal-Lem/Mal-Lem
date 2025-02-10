@@ -1,11 +1,11 @@
 github profile markdown generator logo
 
 <h1 align="center">Hi 👋, I'm Amel</h1>
-<h3 align="center">A passionate Web developer,DS and IOT from Algeria</h3>
+<h3 align="center">A passionate Web Developer specializing in Data Science and AI, based in France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mal-lem&label=Profile%20views&color=0e75b6&style=flat" alt="mal-lem" /> </p>
 
-- 🌱 I’m currently learning **DS & IOT**
+- 🌱 I’m currently learning **Data Science & IA**
 
 - 👯 I’m looking to collaborate on **any club project with members**
 
@@ -13,7 +13,7 @@ github profile markdown generator logo
 
 - 📫 How to reach me **a_guerah@estin.dz**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I'm awareness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

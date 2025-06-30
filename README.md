@@ -5,13 +5,13 @@ github profile markdown generator logo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mal-lem&label=Profile%20views&color=0e75b6&style=flat" alt="mal-lem" /> </p>
 
-- 🌱 I’m currently learning **Data Science & IA**
+- 🌱 I’m currently learning **Data Engineering & IA**
 
 - 👯 I’m looking to collaborate on **any club project with members**
 
 - 💬 Ask me about **javaScript , php , Python Libraries**
 
-- 📫 How to reach me **a_guerah@estin.dz**
+- 📫 How to reach me **guerah.amel2022@outlook.fr**
 
 - ⚡ Fun fact **I think I'm awareness**
 

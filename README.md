@@ -1,7 +1,5 @@
-github profile markdown generator logo
-
 <h1 align="center">Hi 👋, I'm Amel</h1>
-<h3 align="center">A passionate Web Developer specializing in Data Science and AI, based in France</h3>
+<h3 align="center">A passionate Web Developer specializing in Data Engineering, based in France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mal-lem&label=Profile%20views&color=0e75b6&style=flat" alt="mal-lem" /> </p>
 
